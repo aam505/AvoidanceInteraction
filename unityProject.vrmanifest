@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.babapapa.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\HCC Developer\\Documents\\Ria\\Projects\\Training\\Babapapa\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Babapapa [Testing]"
+        }
+      }
+    }
+  ]
+}
